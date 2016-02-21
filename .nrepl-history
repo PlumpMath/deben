@@ -1,0 +1,5 @@
+(+ 1 1)
+(in-ns 'deben.core)
+(food)
+\quit
+quit
